@@ -1,0 +1,22 @@
+.cartelBienvenida{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.cartelBienvenida h1{
+    font-size: 4em;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+
+.cartelBienvenida h2{
+    font-size: 2em;
+    position: absolute;
+    top: 53%;
+    left: 26%;
+}

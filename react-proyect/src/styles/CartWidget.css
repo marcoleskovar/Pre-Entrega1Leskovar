@@ -1,0 +1,27 @@
+.carritoDiv a{
+    text-decoration: none;
+}
+
+.iconCarrito{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#carritoLi{
+    display: flex   ;
+    justify-content: center;
+    align-items: center;
+}
+
+.badge{
+    padding: 3px 4px;
+    font-size: 0.7em;
+    font-weight: 600;
+    color: rgb(230, 230, 230);
+    text-align: center;
+    border-radius: 10px ;
+    background-color: rgb(171, 0, 0);
+    min-width: 30px;
+}
